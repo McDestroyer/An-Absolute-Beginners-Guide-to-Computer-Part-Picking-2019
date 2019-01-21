@@ -1,1 +1,0 @@
-    When choosing a processor, you have to figure out if you want fast but expensive gaming and otherwise single-core speeds (intel) or faster and cheaper multi-core speeds for multi tasking and editing (AMD).
