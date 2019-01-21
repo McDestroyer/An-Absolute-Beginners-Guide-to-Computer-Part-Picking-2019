@@ -1,4 +1,4 @@
-    When choosing a processor, you have to figure out if you want fast but expensive gaming and otherwise single-core speeds 
+When choosing a processor, you have to figure out if you want fast but expensive gaming and otherwise single-core speeds 
 (intel) or faster and cheaper multi-core speeds for multi tasking, editing, and generally low end builds to around $800 USD
 (AMD). 
 
@@ -8,4 +8,5 @@ Intel's processor that end with a -K can be overclocked. Also, AMD  will be usin
 
     After choosing, if you chose AMD, the recommended models for price/performance are the 2200G for low end and the 2600 for 
 mid class builds. If you chose Intel, get a 8600K or 9600K (whichever's cheapest) if you're going to overclock, or a 8400 
-otherwise, at which point you may as well go for the AMD Ryzen 2600 anyway. Or if you're going to go for max performance, go 9900K, but it's expensive for it's speed.
+otherwise, at which point you may as well go for the AMD Ryzen 2600 anyway. Or if you're going to go for max performance, go 
+9900K, but it's expensive for it's speed.
